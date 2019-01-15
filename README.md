@@ -38,6 +38,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.s
 
 [sklearn Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
-[Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using- scikit-learn-28d2aa77dd74)
+[Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
