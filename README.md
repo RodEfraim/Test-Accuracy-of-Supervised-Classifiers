@@ -27,6 +27,7 @@ Example run demonstration for the three datasets are shown in the following file
 
 ![seedsdataresults](https://user-images.githubusercontent.com/32502126/51213990-6730e580-18d1-11e9-91fc-f692928990db.png)
 
+![winedataresults](https://user-images.githubusercontent.com/32502126/51213994-6b5d0300-18d1-11e9-8a95-f2f5e3370afb.png)
 
 ## Authors
 
