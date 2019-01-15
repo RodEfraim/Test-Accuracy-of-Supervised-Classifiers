@@ -19,9 +19,9 @@ Compile and run each of the three ipynb files on jupyter notebook.
 
 Example run demonstration for the three datasets are shown in the following files:
 
-Code_pdf_EEG.pdf
-Code_pdf_Seeds.pdf
-Code_pdf_Wine.pdf
+* [Code_pdf_EEG.pdf](Code_pdf_EEG.pdf)
+* [Code_pdf_Seeds.pdf](Code_pdf_Seeds.pdf)
+* [Code_pdf_Wine.pdf](Code_pdf_Wine.pdf)
 
 ## Authors
 
