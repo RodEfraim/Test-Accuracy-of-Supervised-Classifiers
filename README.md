@@ -33,7 +33,7 @@ Below are the final results of the three datasets respectively:
 
 ## Authors
 
-* **Rodrigo Efraim** - *Initial work* - [RodEfraim](https://github.com/RodEfraim)
+* **Rodrigo Efraim** - *Work* - [RodEfraim](https://github.com/RodEfraim)
 
 ## Acknowledgments
 
